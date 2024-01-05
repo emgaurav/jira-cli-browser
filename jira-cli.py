@@ -242,7 +242,7 @@ def main():
             print("5. List documents in a Confluence space")
             print("6. List all filters")
             print("7. List all issues in a filter")
-            print("9. Download a Confluence page")
+            print("8. Download a Confluence page")
             print((colored("0. Exit", RED_COLOR)))
             choice = input("Enter option (1-8): ")
 
