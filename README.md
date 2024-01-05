@@ -20,8 +20,10 @@ This CLI tool is designed to interact with Jira's API to perform various tasks s
 - Navigate and download all confluence documents
 
 ## Quick Start
-1. Clone the repository.
-2. Install any necessary dependencies (e.g., `requests` library).
+1. Clone the repository and Install any necessary dependencies (e.g., `requests` library) using the following oneliner
+   ```
+   git clone https://github.com/emgaurav/jira-cli-browser.git && cd jira-cli-browser && pip install -r requirements.txt && echo "Ready"
+   ```
 3. Run the script in your terminal: `python jira-cli.py`.
 4. Follow the interactive menu to navigate through your Jira instance.
 
