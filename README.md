@@ -16,6 +16,8 @@ This CLI tool is designed to interact with Jira's API to perform various tasks s
 - Enumerate all projects available to the user.
 - Display all issues in a specified project.
 - List all user-accessible filters and associated issues.
+- List all confluence spaces
+- Navigate and download all confluence documents
 
 ## Quick Start
 1. Clone the repository.
